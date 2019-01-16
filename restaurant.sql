@@ -1,5 +1,4 @@
---NAME: OR HADAD
---ID: 308101591
+
 
 --CLEAR OLD TABLES
 drop table tables cascade constraints;
